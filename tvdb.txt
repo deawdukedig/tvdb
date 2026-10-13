@@ -26,7 +26,7 @@ ch_id | ch_name | base_url | m3u8_url
 025 | Rama Channel |  https://tv.trueid.net/th-th/live/rama-channel |
 026 | Thai Chaiyo |  https://tv.trueid.net/th-th/live/thaichaiyo |
 027 | Yateem Tv |  https://tv.trueid.net/th-th/live/tid-yateem-tv |
-028 | Thai Ness |  https://tv.trueid.net/th-th/live/livetv-thainess |
+028 | Channel 8 |  https://www.tvjaa.com/channel8.html | https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8
 029 | TOP Tv |  https://tv.trueid.net/th-th/live/top-tv-channel |
 030 | White Channel | https://tv.trueid.net/th-th/live/white-channel-hd |
 031 | Dharma Tv | https://tv.trueid.net/th-th/live/dharmatv |
