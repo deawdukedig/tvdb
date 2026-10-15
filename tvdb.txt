@@ -56,3 +56,11 @@ ch_id | ch_name | base_url | m3u8_url
 055 | KBS World | https://world.kbs.co.kr/ | https://stream8.cinerama.uz/1448/playlist.m3u8
 056 | CGTN | https://www.cgtn.com/ | https://english-livebkali.cgtn.com/live/encgtn.m3u8
 057 | Arirang | https://www.arirang.com/ | https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+058 | RT News | https://rt-english.com/ | https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+059 | RT Doc	| https://rt-english.com/ | https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+060 | CGTN Doc | https://www.cgtn.com/ | https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+061 | Bloomberg | https://www.bloomberg.com/ | https://dai.google.com/linear/hls/pb/event/5eGl21d-TBy8Hj5I1AjoVQ/stream/db3dd9ca-53fb-455a-88e4-119425c859c1:TPE/master.m3u8
+062 | DW English | https://www.dw.com/ | https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+063 | France 24 English | https://www.france24.com/ | https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+064 | Sky News | https://news.sky.com/ | https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
+065 | CNBC-TV18 | https://www.cnbctv18.com/ | https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
