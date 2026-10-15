@@ -55,3 +55,4 @@ ch_id | ch_name | base_url | m3u8_url
 054 | NHK World | https://www3.nhk.or.jp/nhkworld | https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 055 | KBS World | https://world.kbs.co.kr/ | https://stream8.cinerama.uz/1448/playlist.m3u8
 056 | CGTN | https://www.cgtn.com/ | https://english-livebkali.cgtn.com/live/encgtn.m3u8
+057 | Arirang | https://www.arirang.com/ | https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
