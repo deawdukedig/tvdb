@@ -53,5 +53,6 @@ ch_id | ch_name | base_url | m3u8_url
 052 | CNN | https://www.cnn.com/ | https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 053 | BBC NEWS | https://www.bbc.co.uk/tv/bbcnews | https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 054 | NHK World | https://www3.nhk.or.jp/nhkworld | https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-055 | Arirang | https://www.arirang.com/ | https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+055 | KBS World | https://world.kbs.co.kr/ | https://stream8.cinerama.uz/1448/playlist.m3u8
 056 | CGTN | https://www.cgtn.com/ | https://english-livebkali.cgtn.com/live/encgtn.m3u8
+057 | Arirang | https://www.arirang.com/ | https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
