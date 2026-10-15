@@ -46,3 +46,12 @@ ch_id | ch_name | base_url | m3u8_url
 045 | DLTV13 | https://dltv.ac.th/ | https://cdn-live.dltv.ac.th/dltv13.m3u8
 046 | DLTV14 | https://dltv.ac.th/ | https://cdn-live.dltv.ac.th/dltv14.m3u8
 047 | DLTV15 | https://dltv.ac.th/ | https://cdn-live.dltv.ac.th/dltv15.m3u8
+048 | ETV | https://www.etvthai.tv | https://www.etvthai.tv/hls/live/livestream/playlist.m3u8
+049 | BN TV | https://www.boonniyom.tv/ | https://live.x2.co.th/live/bntv_720p/index.m3u8
+050 | GBN TV | https://gbnus.com/ | https://us.gbnus.com/live/dhamma_high/playlist.m3u8
+051 | AL Jazeera | https://www.aljazeera.com/ | https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+052 | CNN | https://www.cnn.com/ | https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+053 | BBC NEWS | https://www.bbc.co.uk/tv/bbcnews | https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+054 | NHK World | https://www3.nhk.or.jp/nhkworld | https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+055 | KBS World | https://world.kbs.co.kr/ | https://stream8.cinerama.uz/1448/playlist.m3u8
+056 | CGTN | https://www.cgtn.com/ | https://english-livebkali.cgtn.com/live/encgtn.m3u8
