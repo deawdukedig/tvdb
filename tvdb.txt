@@ -59,7 +59,7 @@ ch_id | ch_name | base_url | m3u8_url
 058 | RT News | https://rt-english.com/ | https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 059 | RT Doc	| https://rt-english.com/ | https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 060 | CGTN Doc | https://www.cgtn.com/ | https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-061 | Bloomberg | https://www.bloomberg.com/ | https://dai.google.com/linear/hls/pb/event/FvrjI2MQSs6_bNTURP2CaA/stream/8dd3dbeb-4a41-40f2-bc5c-9369c5bd8fc2:TPE/master.m3u8
+061 | Bloomberg | https://www.bloomberg.com/ | https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 062 | DW English | https://www.dw.com/ | https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 063 | France 24 English | https://www.france24.com/ | https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
 064 | Sky News | https://news.sky.com/ | https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
