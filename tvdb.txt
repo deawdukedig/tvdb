@@ -77,11 +77,11 @@ ch_id | ch_name | base_url | m3u8_url
 076 | Global News (Ca) | https://livenow.news/ | https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 077 | Euronews (Fr) | https://livenow.news/ | https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 078 | BBC News (UK) | https://livenow.news/ | https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
-079 | GB News | https://livenow.news/ | https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
+079 | GB News | https://livenow.news/ | https://vod-gbnews-fastly.simplestreamcdn.com/gbnews/capture/gbnews/2023-11-17/52187675.ism/manifest.m3u8?hls_client_manifest_version=3
 080 | India Today (Ind) | https://livenow.news/ | https://feeds.intoday.in/hltapps/api/master.m3u8
 081 | NDTV (Ind) | https://livenow.news/ | https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 082 | WION (Ind) | https://livenow.news/ | https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-083 | Press TV (Iran) | https://livenow.news/ | https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+083 | Press TV | https://livenow.news/ | https://live.presstv.co.uk/hls/presstv_5_482/index.m3u8
 084 | CNA (SGP) | https://livenow.news/ | https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 085 | TRT World (Turk) | https://livenow.news/ | https://tv-trtworld.medya.trt.com.tr/master.m3u8
 086 | TeleSUR (Vene) | https://livenow.news/ | https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
