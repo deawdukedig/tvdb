@@ -64,3 +64,24 @@ ch_id | ch_name | base_url | m3u8_url
 063 | France 24 English | https://www.france24.com/ | https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
 064 | Sky News | https://news.sky.com/ | https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
 065 | CNBC-TV18 | https://www.cnbctv18.com/ | https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+066 | ABC News (US) | https://livenow.news/ | https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+067 | CBS News | https://livenow.news/ | https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+068 | FOX News | https://livenow.news/ | https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+069 | NBC News (US) | https://livenow.news/ | https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+070 | Reuters | https://livenow.news/ | https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+071 | Scripps TV (US) | https://livenow.news/ | https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+072 | SABC News (St Africa) | https://livenow.news/ | https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+073 | News24 | https://livenow.news/ | https://i.mjh.nz/.r/sky-news-now.m3u8
+074 | Ticker News (Au) | https://livenow.news/ | https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
+075 | CityNews (Ca) | https://livenow.news/ | https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+076 | Global News (Ca) | https://livenow.news/ | https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+077 | Euronews (Fr) | https://livenow.news/ | https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+078 | BBC News (UK) | https://livenow.news/ | https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+079 | GB News | https://livenow.news/ | https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
+080 | India Today (Ind) | https://livenow.news/ | https://feeds.intoday.in/hltapps/api/master.m3u8
+081 | NDTV (Ind) | https://livenow.news/ | https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+082 | WION (Ind) | https://livenow.news/ | https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+083 | Press TV (Iran) | https://livenow.news/ | https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+084 | CNA (SGP) | https://livenow.news/ | https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+085 | TRT World (Turk) | https://livenow.news/ | https://tv-trtworld.medya.trt.com.tr/master.m3u8
+086 | TeleSUR (Vene) | https://livenow.news/ | https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
